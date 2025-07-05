@@ -34,7 +34,7 @@ The chatbot demonstrates how LLaMA-style language models can be used for basic c
 
 ## 🚀 How to Run
 
-1. Open `llama_chatbot (1).ipynb` in Jupyter Notebook  
+1. Open `llama_chatbot.ipynb` in Jupyter Notebook  
 2. Install required libraries if prompted  
 3. Run the notebook cells to interact with the chatbot  
 
